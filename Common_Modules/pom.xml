@@ -6,10 +6,13 @@
         <artifactId>Company_Project_module</artifactId>
         <groupId>org.example</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Common_Modules</artifactId>
+
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
